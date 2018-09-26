@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: Fix Guild UI Bug 
+## Author: Gene Liu
+## X-Packaged-Version: v0.0.1
+
+main.lua
